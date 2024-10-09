@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Demo\\Demo02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9D145-942A-44AD-8634-1A29E83D4514}|MyLibrary\\MyLibrary.csproj|c:\\demo\\demo02\\mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9D145-942A-44AD-8634-1A29E83D4514}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505F3B71-BF3C-420E-88FD-FF2E71629856}|ConsoleApp\\ConsoleApp.csproj|c:\\demo\\demo02\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505F3B71-BF3C-420E-88FD-FF2E71629856}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9D145-942A-44AD-8634-1A29E83D4514}|MyLibrary\\MyLibrary.csproj|c:\\demo\\demo02\\mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9D145-942A-44AD-8634-1A29E83D4514}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demo\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Demo\\Demo02\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:25:21.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Demo\\Demo02\\MyLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Employee.cs",
+              "ToolTip": "C:\\Demo\\Demo02\\MyLibrary\\Employee.cs",
+              "RelativeToolTip": "MyLibrary\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:16:44.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Demo\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Product.cs",
+              "ToolTip": "C:\\Demo\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeToolTip": "MyLibrary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:30:44.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
